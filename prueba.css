@@ -1,0 +1,148 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.fondoPrincipal {
+  background-color: #182153;
+  margin-top: 0px;
+  height: 100px;
+}
+
+.fondoPrincipal4 {
+  background-color: #182153;
+  margin-top: -40px;
+  height: 80px;
+}
+
+.fondoPrincipal3 {
+  background-color: #182153;
+  margin-top: 0px;
+  height: 444px;
+}
+
+.fonditos {
+  background-color: whitesmoke;
+  height: 80px;
+  margin-top: -40px;
+}
+
+.fonditos2 {
+  background-color: whitesmoke;
+  height: 130px;
+  margin-top: -20px;
+
+}
+
+.fonditos3 {
+  background-color: whitesmoke;
+  height: 130px;
+  margin-top: -22px;
+
+}
+
+.fondo3 {
+    background-color: white;
+}
+
+.fondo4 {
+    background: whitesmoke;
+}
+
+.imagen {
+  background-image: url('MarinaPrincipal.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position: center;
+  height: 444px;
+  padding-left: 0px;
+  padding-left: 0px;
+  display: block;
+  border-radius: 10px;
+  border: 2px solid white;
+}
+
+.caja1 {
+padding-left: 0px !important;
+padding-right: 0px !important;
+
+}
+
+.caja2 {
+  padding-left: 0px !important;
+
+}
+
+.texto {
+      padding-top: 1px;
+      background-color: whitesmoke;
+      background-size: contain;
+      height: 444px;
+      margin-right: -16px;
+}
+
+.titulo1 {
+    font-size: 25px;
+    color:#182153;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.titulo2 {
+    font-size: 14px;
+    color:#182153;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+
+.titulo4 {
+    font-size: 14px;
+    color:#182153;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.titulo5 {
+   font-size: 30px;
+   color:#182153;
+   padding-left: 24px;
+}
+
+.letras {
+    color:#182153;
+    font-size:12px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.parrafo1 {
+    font:14px/1.4em avenir-lt-w01_35-light1475496,sans-serif;
+    background-color: whitesmoke;
+    font-size:12px;
+    margin-top: -30px;
+
+}
+
+
+.puntito {
+      padding-top: 25px;
+}
+
+.intro {
+
+ padding-bottom: 14px;
+}
+
+.premios {
+    color:#182153;
+    font:14px/1.4em avenir-lt-w01_35-light1475496,sans-serif;
+}
+
+.titulo3 {
+    font-size: 25px;
+    color:#182153;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    padding-top: 46px;
+    font-family:Arial, Helvetica, sans-serif;
+}
