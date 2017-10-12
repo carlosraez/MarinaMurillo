@@ -6,7 +6,13 @@ body {
 
 .fondoPrincipal {
   background-color: #182153;
-  margin-top: 0px;
+  margin-bottom:  0px;
+  height: 100px;
+}
+
+.fondoUltimo {
+  background-color: #182153;
+  margin-bottom:  -20px;
   height: 100px;
 }
 
